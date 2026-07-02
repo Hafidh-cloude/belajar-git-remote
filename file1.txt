@@ -1,3 +1,4 @@
 Menambahkan file1.txt
 Menambahkan baris baru di file1
 Menambahkan baris untuk branch feature/1
+Disini nanti akan ada fitur utama berupa gambar pemandangan hotel

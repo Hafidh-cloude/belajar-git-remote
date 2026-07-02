@@ -1,2 +1,3 @@
 Menambahkan file2.txt
 Menambahkan barsis baru di file2
+Fitur kedua adalah dengan menambahkan kamar VIP
